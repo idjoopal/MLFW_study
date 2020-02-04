@@ -1,2 +1,1 @@
-# no .a files
-.ipynb_checkpoints
+*/.ipynb_checkpoints/*.ipynb
